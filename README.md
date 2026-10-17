@@ -13,7 +13,7 @@ I'm a TripleTen Quality Assurance graduate with a background in IT support, trou
 
 ## 🚀 My QA Projects
 
-### 🚗 Urban Routes — Python & Selenium Automation
+### 🚗 [Urban Routes – Python & Selenium Automation](https://github.com/markas23-phoenix/Urban-Routes-QA-Automation)
 - Developed automated UI tests using Python and Selenium WebDriver
 - Organized reusable page methods and test data
 - Used PyCharm, Git, and GitHub
