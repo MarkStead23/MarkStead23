@@ -1,4 +1,3 @@
-
 # Hi, I'm Mark Stead 👋
 
 ### Quality Assurance Engineer | Manual & Automated Testing
@@ -18,7 +17,7 @@ I'm a TripleTen Quality Assurance graduate with a background in IT support, trou
 - Organized reusable page methods and test data
 - Used PyCharm, Git, and GitHub
 
-### 🛴 Urban Scooter — Web, Mobile & API Testing
+### 🛴 [Urban Scooter — Web, Mobile & API Testing](https://github.com/markas23-phoenix/Urban-Scooter-QA-Testing)
 - Created and executed manual test cases
 - Tested web and Android application functionality
 - Validated REST API responses using Postman
