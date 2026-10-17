@@ -27,6 +27,7 @@ I'm a TripleTen Quality Assurance graduate with a background in IT support, trou
 TripleTen — Quality Assurance Certificate (2026)
 
 ## 📫 Connect With Me
+
 - [LinkedIn](https://www.linkedin.com/in/mark-stead23/)
-- [GitHub](https://github.com/markas23-phoenix)
+- [GitHub](https://github.com/MarkStead23)
   
